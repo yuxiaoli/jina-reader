@@ -1,0 +1,11 @@
+{
+  "api_key_env_var": "JINA_API_KEY",
+  "require_api_key": false,
+
+  "reader_base_url": "https://r.jina.ai/",
+  "timeout_seconds": 60,
+  "accept": "text/plain; charset=utf-8",
+
+  "default_behavior": "insert_below",
+  "set_syntax_to_markdown": true
+}

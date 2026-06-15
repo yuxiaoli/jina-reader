@@ -1,0 +1,9 @@
+[
+  {
+    "keys": ["ctrl+alt+j"],
+    "command": "jina_reader_fetch",
+    "args": {
+      "behavior": "insert_below"
+    }
+  }
+]

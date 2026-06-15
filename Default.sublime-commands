@@ -1,0 +1,9 @@
+[
+  {
+    "caption": "Jina Reader: Insert Markdown Below URL",
+    "command": "jina_reader_fetch",
+    "args": {
+      "behavior": "insert_below"
+    }
+  }
+]
