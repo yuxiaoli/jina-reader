@@ -3,9 +3,14 @@
   "require_api_key": false,
 
   "reader_base_url": "https://r.jina.ai/",
+  "search_base_url": "https://s.jina.ai/",
   "timeout_seconds": 60,
   "accept": "text/plain; charset=utf-8",
 
+  "search_parameters": {},
+  "search_headers": {},
+
   "default_behavior": "insert_below",
+  "search_default_behavior": "insert_below",
   "set_syntax_to_markdown": true
 }

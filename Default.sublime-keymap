@@ -5,5 +5,12 @@
     "args": {
       "behavior": "insert_below"
     }
+  },
+  {
+    "keys": ["ctrl+alt+shift+j"],
+    "command": "jina_reader_search",
+    "args": {
+      "behavior": "insert_below"
+    }
   }
 ]
